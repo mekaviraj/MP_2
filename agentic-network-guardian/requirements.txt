@@ -1,0 +1,2 @@
+pip install crewai fastapi uvicorn streamlit
+pip install pandas numpy scikit-learn pymongo
